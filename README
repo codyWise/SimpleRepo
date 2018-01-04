@@ -2,4 +2,9 @@
 "second change" 
 "my third eidt" 
 'anotehr change' 
+<<<<<<< HEAD
 "hotfix" 
+=======
+ "bug 53 fix"  
+"new change" 
+>>>>>>> iss53
